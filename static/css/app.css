@@ -1,0 +1,15 @@
+#content-img-small img{
+  height:80px;
+}
+
+#content-img-big img{
+  display: none;
+  height:210px;
+}
+
+.box-img{
+  display: flex;
+  justify-content: center;
+  margin-top:10px;
+  margin-bottom:10px;
+}
